@@ -1,0 +1,17 @@
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\bin\Debug\araçkiralamaotomasyonu.exe.config
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\bin\Debug\araçkiralamaotomasyonu.exe
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\bin\Debug\araçkiralamaotomasyonu.pdb
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.csproj.AssemblyReference.cache
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.formanasayfa.resources
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.formmüsteriekle.resources
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.Properties.Resources.resources
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.csproj.GenerateResource.cache
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.exe
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.pdb
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.frmmüşterilisteleme.resources
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.araçkayıtsayfası.resources
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.frmaraçlistele.resources
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\bin\Debug\System.Data.SqlClient.dll
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\bin\Debug\System.Data.SqlClient.xml
+C:\Users\TEO\OneDrive\Masaüstü\araçkiralamaotomasyonu\araçkiralamaotomasyonu\obj\Debug\araçkiralamaotomasyonu.csproj.CopyComplete
